@@ -2,7 +2,7 @@
 ## Quick Start
 ```
 cd ~/.config
-git clone https:github.com/B3ella/nvim.git
+git clone https://github.com/B3ella/nvim.git
 nvim nvim/lua/B3ella/packer.lua
 :so
 :PackerSync
